@@ -67,7 +67,7 @@ export default function DownsellPage() {
       }
     }
 
-    window.open("https://pay.hotmart.com/N100448107A?off=fh6ck4c7", "_blank")
+    window.open("https://pay.hotmart.com/N100448107A?off=rta5i9vg", "_blank")
   }
 
   return (
@@ -509,7 +509,7 @@ export default function DownsellPage() {
 
             <div className="text-center">
               <a
-                href="https://comprarplanseguro.shop/dw-II/"
+                href="https://app.plansistema.shop/app/"
                 className="text-sm text-muted-foreground hover:text-foreground transition-colors underline"
               >
                 No, prefiero perder mis $36 y arriesgar que ella conozca a alguien más
